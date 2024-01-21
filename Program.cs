@@ -1,5 +1,5 @@
-// ﻿using EFConsole;
-// using Microsoft.EntityFrameworkCore;
+﻿using EFConsole;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Migrations.Operations;
 using Microsoft.EntityFrameworkCore.Query.SqlExpressions;
 using System;
